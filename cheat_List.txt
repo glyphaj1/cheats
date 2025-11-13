@@ -7,6 +7,19 @@ Shroom
 Solara
 Wave
 
+external
+internal
+injector
+memory
+camera
+mouse
+aimbot
+wallhacks
+esp
+triggerbot
+ahk
+auto
+hotkey
 cheat
 cheeze
 cheeto
