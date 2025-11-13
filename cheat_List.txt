@@ -13,9 +13,6 @@ layuh
 soure
 leak
 
-x64
-x32
-
 cloudy
 cloudly
 xeno
