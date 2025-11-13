@@ -12,6 +12,7 @@ centrum
 layuh
 soure
 leak
+paste
 
 cloudy
 cloudly
